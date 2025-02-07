@@ -9,7 +9,7 @@ export default function Navbar() {
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo / Title */}
         <div className="text-gray-800 lg:text-2xl flex gap-2 items-center font-semibold">
-          <img className="h-16 w-20" src="src/assets/logo.png" alt="Logo" />
+          <img className="h-16 w-20" src="\logo.png" alt="Logo" />
           <p className="font-bold hidden lg:flex text-yellow-500">Admin Dashboard</p>
           
         </div>
